@@ -1,4 +1,4 @@
-## Becoming a Senior Frontend Engineer
+# Becoming a Senior Frontend Engineer
 
 -- [Apurv Khare](https://www.linkedin.com/in/apurvkhare/)
 
